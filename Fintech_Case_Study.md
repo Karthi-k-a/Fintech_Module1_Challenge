@@ -33,19 +33,12 @@ Tangerine has been delivering what they promised its customers - low fees, great
 
 ### Digital Bank - Key Performance Indicators
 The performance of a digital bank can be measured using various criteria. Some of the most important metrics used to measure its success are [20,21]:
-
 * **Visit-to-Lead Ratio:** The proportion of website visitors who are converted into sales leads in a given period of time. Visitor-to-Lead conversion rate evaluates the effectiveness of a company’s marketing strategy to create appealing online content that urges visitors to become potential clients. 
-
 * **Lead-to-Sales Ratio:** The proportion of qualified leads of a company that result in actual sales. This measures the effectiveness of the sales team in converting a prospective customer into an actual customer.
-
 * **Functionality:** The ability of mobile apps and online banking websites to seamlessly perform all operations they are meant to do.
-
 * **Activity:** The tracking of user activity on a regular basis like daily, weekly, or monthly on the bank's digital platform to enable better user-experience.
-
 * **Retention:** The ability to retain existing customers by providing proactive customer service and promotional offers.
-
 * **Net Promoter Score:** A metric based on likelihood of customers to recommend a company, product, or a service to a friend or colleague.
-
 * **Task Completion:** A metric to improve user-experience by measuring the rate at which a digital-banking app or website accomplishes a task initiated by a customer (adding a beneficiary, transfering funds, etc.).
 
 ### Tangerine's Performance
