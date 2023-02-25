@@ -6,7 +6,7 @@
 ## Overview and Origin
 Tangerine was founded as ING DIRECT Canada by ING Group in 1997 [1,2,3]. ING Direct Canada was the first Direct Banking model launched by ING Group in other countries to expand its retail banking business [4]. ING Direct Canada was acquired by Scotiabank (The Bank of Nova Scotia) in 2012 and later rebranded to Tangerine. It operates independently as a wholly-owned subsidiary. Headquartered in Toronto, it is Canada’s leading digital or neo bank with over 2 million clients and more than $40  billion in total assets. Tangerine offers flexible banking, innovative products and services, low fees, and exemplary client service [5]. With their tagline “Forward Banking,” Tangerine is committed to empowering Canadians to make smarter financial decisions by delivering programs and initiatives that are progressive, faster, and simpler [6].
 
------
+
 ## Business Activities
 Tangerine was launched as an initiative of the Direct Banking business model that aims at providing high interest rates and low fee accounts by eliminating the costs of maintaining a physical branch network while offering convenience for customers who prefer digital technology [7]. With a market share of 6% to 7% [8], Tangerine positioned itself as a challenger to the country’s banking giants and targets tech-savvy consumers looking for simple digital solutions to meet their financial needs.
 
@@ -17,7 +17,7 @@ Tangerine uses various tools and technologies such as Artificial Intelligence (A
 
 In 2015, Tangerine adopted Digital Signature Technology (e-SignLive) from Silanis that enables any touch-screen web-enabled device to act as a signature pad to capture customer signatures [11]. Further in 2016, Tangerine partnered with Meniga to take their client experience to the next level through personalised digital banking. Tangerine integrated Meniga’s transaction enrichment tool, data-driven personalized insights and reports, and a programmable banking interface to combine banking functions with 3rd parties (APIs) [12,13]. These tools use AI and ML to deliver accurate transaction data with personalized insights making is easier for customers to make smart financial decisions. Tangerine also uses other applications and tools such as jQuery, AngularJS, Bootstrap, Modernizr, Akamai and Dynatrace platform [14].
 
------  
+  
 ## Landscape
 Tangerine is a prominent player in digital banking domain that expanded its offerings from high interest savings accounts to mortgages and investment products over the years, thereby providing an array of financial services and products to choose from. 
 
@@ -26,7 +26,7 @@ The Banking industry has been unprecedentedly disrupted by digitalization and in
 
 With digital banks capturing the retail banking market, Canada has a wide range of banks to choose from. Apart from Tangerine, some of the popular digital banks in Canada are Simplii Financial, EQ Bank, Manulife Bank, Motus Bank, Wealthsimple, Koho, Neo Financial, Alterna Bank, Outlook Financial, AcceleRate Financial, Achieva Financial and many more. All the aforementioned digital banks offer competitive services and products that are unique in their own way [17,18]
 
------
+
 ## Results
 ### Business Impact 
 Tangerine has been delivering what they promised its customers - low fees, great rates, and simplified products. It has paid billions of dollars in interest to its customers surpassing $8.6 billion in 2022 and continues to be one of the leading and favourite digital banks of the country. Started as the first Direct Bank in the country in 1997, Tangerine has evolved tremendously and come a long way in 25 years. Started with high interest savings account, Tangerine expanded its product offering to no-fee daily Chequing Account, Visa Debit Cards, Mortgages and Investments and launched great features such as online/mobile banking, and Cheque-In feature (a first in Canadian Banking) [19]. 
@@ -52,11 +52,11 @@ The performance of a digital bank can be measured using various criteria. Some o
 
 Based on a number of key performance indicators, Tangerine has always topped Canadian market among all mid sized banks in account offerings, helping save time and money, allowing customers to bank how and when they want, and digital channels– website, mobile app. In 2022, Tangerine ranked first for the 11th consecutive year in customer satisfaction among it's competitors in the J.D. Power Canada Retail Banking Satisfaction Study [22]. 
 
------
+
 ## Recommendations
 Tangerine is a one-stop shop for all banking solutions in Canada; however, it's not really the best in any single category other than its Money-Back Credit Card that offers upto 2% cashback with no annual fee. Other digital banks such as Wealthsimple and EQ offer better products with better interest rates [23,24]. Tangerine's savings account provides high interest rate only for the first 5 months of account opening. I recommend that Tangerine boosts their interest rates for their savings account beyond its promotional period and also allows for wire transfers and crypto trading which are not part of their current portfolio to stay competitive in the market and capture more customers [25,26]. In order to achieve this, I suggest that they implement blockchain technology that allows for low-cost, secure, and quicker processing of wire transfers and crypto trading by operating in a decentralized network. Tangerine has been a popular bank among Canadians since its inception and I believe that these changes will help Tangerine to continue being country's favourite. 
 
------
+
 ## References
 
 1- https://www.tangerine.ca/en/about-us
