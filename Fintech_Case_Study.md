@@ -43,7 +43,7 @@ The performance of a digital bank can be measured using various criteria. Some o
 
 ### Tangerine's Performance
 
-Based on a number of key performance indicators, Tangerine has always topped Canadian market among all mid sized banks in account offerings, helping save time and money, allowing customers to bank how and when they want, and digital channels– website, mobile app. In 2022, Tangerine ranked first for the 11th consecutive year in customer satisfaction among it's competitors in the J.D. Power Canada Retail Banking Satisfaction Study.<sup>[[22]](https://www.tangerine.ca/en/about-us/press-releases/pr-2022-11-28)</sup> 
+Based on a number of key performance indicators, Tangerine has always topped Canadian market among all mid sized banks in account offerings, helping save time and money, allowing customers to bank how and when they want, and digital channels– website, mobile app. In 2022, Tangerine ranked first for the 11th consecutive year in customer satisfaction among it's competitors in the J.D. Power Canada Retail Banking Satisfaction Study.<sup>[[22]](https://www.tangerine.ca/en/about-us/press-releases/pr-2022-11-28)</sup> As technological transformations continue to disrupt the world, a digital bank like Tangerine is expected to grow further and expand its market.  
 
 
 ## Recommendations
